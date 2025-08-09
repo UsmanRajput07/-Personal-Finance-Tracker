@@ -1,15 +1,2 @@
-# first-agent
-
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run agent.js
-```
-
-This project was created using `bun init` in bun v1.2.19. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+# -Personal-Finance-Tracker
+I recently built a Personal Finance Tracker using Node.js + Groq SDK that works entirely from the command line — but feels like chatting with a human assistant.
